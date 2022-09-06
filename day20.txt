@@ -20,3 +20,4 @@ git상태
 	staged		commit이 되기 전 상태 (임시 저장 상태)
 	committed	수정사항들이 자신의 로컬 git 환경에 저장돼 있는 상태
 
+이제 모든수업 끝
